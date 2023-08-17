@@ -1,0 +1,28 @@
+h1 {
+    color: #ededf1;
+    font-family: sans-serif;
+}
+
+p {
+    color: #ededf1;
+    font-family: Inter;
+    font-size: 19px;
+}
+
+.body--app {
+    width: 100%;
+}
+
+.body--h1 {
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.div--text {
+    width: 80%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    padding-left: 10%;
+    padding-top: 3%;
+}

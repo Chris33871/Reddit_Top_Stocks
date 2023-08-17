@@ -1,0 +1,18 @@
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 7%;
+}
+
+.form--btn {
+    height: 50px;
+    width: 200px;
+    font-family: Inter;
+    border-style: ridge;
+    border-color: white;
+    border-radius: 10px;
+    color: white;
+    background-color: #353441;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}

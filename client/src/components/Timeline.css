@@ -1,0 +1,42 @@
+.bar {
+    position: relative;
+    width: 80%;
+    height: 50px;
+    background-color: #444755;
+    margin-top: 8%;
+    left: 10%;
+    border-radius: 10px;
+
+
+    display: flex;
+}
+
+.bar--p {
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+}
+
+
+/* .bar--dot {
+    position: relative;
+    height: 70%;
+    width: 8px;
+    background-color: white;
+    border-radius: 50%;
+    top: 15%;
+}
+
+.bar--dot.hover::after {
+    content: attr(data-date);
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+    color: blue;
+    padding: 4px;
+    border-radius: 4px;
+    font-size: 14px;
+} */
